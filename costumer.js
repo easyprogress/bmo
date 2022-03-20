@@ -1,2 +1,1 @@
-console.log('costumer')
-console.log("happy costumer")
+console.log("hello")
